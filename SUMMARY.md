@@ -30,4 +30,4 @@
   * [🟠 707. Design Linked List](linkedlist/707.-design-linked-list.md)
 * [📚 Resources](resources.md)
   * [Interview Prep Resources (Sadh)](resources/interview-prep-resources-sadh.md)
-* [Page 1](page-1.md)
+  * [My list of materials](resources/my-list-of-materials.md)
