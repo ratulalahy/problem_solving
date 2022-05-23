@@ -28,3 +28,4 @@
   * [🟢 160. Intersection of Two Linked Lists](linkedlist/160.-intersection-of-two-linked-lists.md)
   * [🟠 19. Remove Nth Node From End of List](linkedlist/19.-remove-nth-node-from-end-of-list.md)
   * [🟠 707. Design Linked List](linkedlist/707.-design-linked-list.md)
+* [📚 Resources](resources.md)
