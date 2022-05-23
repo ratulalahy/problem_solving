@@ -28,6 +28,6 @@
   * [🟢 160. Intersection of Two Linked Lists](linkedlist/160.-intersection-of-two-linked-lists.md)
   * [🟠 19. Remove Nth Node From End of List](linkedlist/19.-remove-nth-node-from-end-of-list.md)
   * [🟠 707. Design Linked List](linkedlist/707.-design-linked-list.md)
-* [📚 Resources](resources/README.md)
-  * [Interview Prep Resources](resources/interview-prep-resources.md)
+* [📚 Resources](resources.md)
+  * [Interview Prep Resources (Sadh)](resources/interview-prep-resources-sadh.md)
 * [Page 1](page-1.md)
