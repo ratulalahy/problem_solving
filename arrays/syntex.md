@@ -33,7 +33,3 @@
 ```python
 x = 10 if a > b else 11
 ```
-
-$$
-f(x) = x * e^{2 pi i \xi x}
-$$
