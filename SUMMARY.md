@@ -22,6 +22,8 @@
   * [🟢 941. Valid Mountain Array](arrays/941.-valid-mountain-array.md)
   * [🟢 977. Squares of a Sorted Array](arrays/977.-squares-of-a-sorted-array.md)
   * [🧬 Syntex](arrays/syntex.md)
+* [🈁 String](string/README.md)
+  * [🧬 Syntex](string/syntex.md)
 * [🔗 LinkedList](linkedlist/README.md)
   * [🟢 141. Linked List Cycle](linkedlist/141.-linked-list-cycle.md)
   * [🟠 142. Linked List Cycle II](linkedlist/142.-linked-list-cycle-ii.md)
