@@ -2,7 +2,7 @@
 
 ## Common Methods
 
-|           |                          |                                                  |
+| Method    | Example                  | Description                                      |
 | --------- | ------------------------ | ------------------------------------------------ |
 | `append`  | `a_list.append(item)`    | Append new item to the end                       |
 | `insert`  | `a_list.insert(i, item)` | Insert an item at the $i^th$ position.           |
