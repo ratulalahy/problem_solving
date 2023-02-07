@@ -2,7 +2,7 @@
 
 ## Common Methods
 
-|          |                        |                                                    |
+| Method   | Use                    | Description                                        |
 | -------- | ---------------------- | -------------------------------------------------- |
 | `count`  | `a_string.count(item)` | Return number of occurrance                        |
 | `find`   | `a_string.find(item)`  | Return index of the first occurrence               |
