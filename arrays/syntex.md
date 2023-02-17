@@ -1,31 +1,12 @@
-# 📬 List
+# 🧬 Syntex
 
-_**Ordered**_ collection of zero or more _**references**_ to data objects.
+## Sorting
 
-<figure><img src="https://i.stack.imgur.com/mrzxv.png" alt=""><figcaption><p><a href="http://www.laurentluce.com/posts/python-list-implementation/">Python List implementation</a><br><a href="https://stackoverflow.com/questions/3917574/how-is-pythons-list-implemented">stackoverflow</a></p></figcaption></figure>
-
-## Common Methods
-
-| Method    | Example                  | Description                                      |
-| --------- | ------------------------ | ------------------------------------------------ |
-| `append`  | `a_list.append(item)`    | Append new item to the end                       |
-| `insert`  | `a_list.insert(i, item)` | Insert an item at the $i^th$ position.           |
-| `pop`     | `a_list.pop()`           | Removes+Returns the last item                    |
-| `pop`     | `a_list.pop(i)`          | Removes+Returns $i^th$ item                      |
-| `sort`    | `a_list.sort()`          | Inplace sort the list                            |
-| `reverse` | `a_list.reverse()`       | Inplace reverse order the list                   |
-| `del`     | `del a_list[i]`          | Delete $i^th$ item                               |
-| `index`   | `a_list.index(item)`     | Return the index of first occurrence of the item |
-| `count`   | `a_list.count(item)`     | Returns number of occurrence of the item         |
-| `remove`  | `a_list.remove(item)`    | Remove the the first occurrence of the item.     |
-
-## Sorting Methods
-
-|    Attribute    |      list.sort()     |                                               sorted(list)                                              |
+|                 |      list.sort()     |                                               sorted(list)                                              |
 | :-------------: | :------------------: | :-----------------------------------------------------------------------------------------------------: |
-|     Returns     |         None         |                                             New sorted list                                             |
-|     Inplace?    |          Yes         |                                      <p>No.<br>Returns new list</p>                                     |
-|    Efficiency   |        Faster        |                              <p>Slower.<br>'Coz needs to copy new list.</p>                             |
+|     Returns     |         None         |                                             new sorted list                                             |
+|     Inplace?    |          Yes         |                                           No. Returns new list                                          |
+|    Efficiency   |        Faster        |                                   Slower. 'coz needs to copy new list.                                  |
 | Other iterables | Only works with list | <p>Works on any iterables.<br>Strings, tuples, dictionaries (you'll get the keys), generators, etc.</p> |
 
 > ref : [https://stackoverflow.com/a/22442440/565055](https://stackoverflow.com/a/22442440/565055)
@@ -37,7 +18,3 @@ _**Ordered**_ collection of zero or more _**references**_ to data objects.
 ```python
 x = 10 if a > b else 11
 ```
-
-## References
-
-\[1] [http://www.laurentluce.com/posts/python-list-implementation/](http://www.laurentluce.com/posts/python-list-implementation/)
