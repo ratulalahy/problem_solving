@@ -21,7 +21,7 @@
   * [🟢 905. Sort Array By Parity](arrays/905.-sort-array-by-parity.md)
   * [🟢 941. Valid Mountain Array](arrays/941.-valid-mountain-array.md)
   * [🟢 977. Squares of a Sorted Array](arrays/977.-squares-of-a-sorted-array.md)
-* [🈁 String](string.md)
+* [🈁 String](string/README.md)
 * [🔗 LinkedList](linkedlist/README.md)
   * [🟢 141. Linked List Cycle](linkedlist/141.-linked-list-cycle.md)
   * [🟠 142. Linked List Cycle II](linkedlist/142.-linked-list-cycle-ii.md)
@@ -35,7 +35,8 @@
 ## 🧬 Syntax and Snippet&#x20;
 
 * [Syntax](syntax-and-snippet/syntax/README.md)
+  * [📬 List](arrays/syntex.md)
+  * [🈳 String](string/syntex.md)
   * [🍡 Set](syntax-and-snippet/syntax/set.md)
-  * [🈳 String](syntax-and-snippet/syntax/string.md)
-  * [🚈 Array](syntax-and-snippet/syntax/syntex.md)
   * [🤼 Tuple](syntax-and-snippet/syntax/tuple.md)
+  * [🏳 Dictionary](syntax-and-snippet/syntax/dictionary.md)

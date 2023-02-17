@@ -1,13 +1,8 @@
 # 🍡 Set
 
-Set is:\
-\- **Unordered**\
-\- **immutable**\
-Collection
+**Unordered, immutable** Collection
 
-
-
-
+## Operators
 
 | Operator | Use                      | Explanation                                  |
 | :------: | ------------------------ | -------------------------------------------- |
@@ -17,6 +12,8 @@ Collection
 |    `&`   | `set_1 & set_2`          | Returns new set of Intersection              |
 |    `-`   | `set_1 - set_2`          | Returns new set of Difference                |
 |   `<=`   | `set_1 <= set_2`         | Returns if `set_1` is subset (⊆) of `set_2`  |
+
+## Methods
 
 |     Method     | Equiv | Use                         |                  Explanation                 |
 | :------------: | ----- | --------------------------- | :------------------------------------------: |

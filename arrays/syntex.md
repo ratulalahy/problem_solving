@@ -1,6 +1,8 @@
-# 🚈 Array
+# 📬 List
 
-_**ordered**_ collection of zero or more _**references**_ to data objects.
+_**Ordered**_ collection of zero or more _**references**_ to data objects.
+
+<figure><img src="https://i.stack.imgur.com/mrzxv.png" alt=""><figcaption><p><a href="http://www.laurentluce.com/posts/python-list-implementation/">Python List implementation</a><br><a href="https://stackoverflow.com/questions/3917574/how-is-pythons-list-implemented">stackoverflow</a></p></figcaption></figure>
 
 ## Common Methods
 
@@ -17,7 +19,7 @@ _**ordered**_ collection of zero or more _**references**_ to data objects.
 | `count`   | `a_list.count(item)`     | Returns number of occurrence of the item         |
 | `remove`  | `a_list.remove(item)`    | Remove the the first occurrence of the item.     |
 
-## Sorting
+## Sorting Methods
 
 |    Attribute    |      list.sort()     |                                               sorted(list)                                              |
 | :-------------: | :------------------: | :-----------------------------------------------------------------------------------------------------: |
@@ -35,3 +37,7 @@ _**ordered**_ collection of zero or more _**references**_ to data objects.
 ```python
 x = 10 if a > b else 11
 ```
+
+## References
+
+\[1] [http://www.laurentluce.com/posts/python-list-implementation/](http://www.laurentluce.com/posts/python-list-implementation/)
