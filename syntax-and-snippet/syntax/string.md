@@ -1,4 +1,6 @@
-# 🧬 Syntex
+# 🈳 String
+
+* Immutable collection
 
 ## Common Methods
 
