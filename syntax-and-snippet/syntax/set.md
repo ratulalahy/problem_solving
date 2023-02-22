@@ -23,5 +23,5 @@
 |   `issubset`   | `<=`  | `set_1.issubset(set_2)`     | Returns if `set_1` is subset (⊆) of `set_2`  |
 |      `add`     |       | `my_set.add(item)`          |            Add `item` to `my_set`            |
 |    `remove`    |       | `my_set.remove(item)`       |          Remove `item` from `my_set`         |
-|     `` ` ``    |       | `my_set.pop()`              |          Remove _**arbitrary**_ item         |
+|      `pop`     |       | `my_set.pop()`              |          Remove _**arbitrary**_ item         |
 |     `clear`    |       | `my_set.clear()`            |        Removes all item from `my_set`        |
