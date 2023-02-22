@@ -1,5 +1,12 @@
 # 🏳 Dictionary
 
+> From <mark style="background-color:yellow;">Python 3.6</mark> Dictionary is ordered collection. The insertion order is preserved. If need to work proir version, need to use `OrderedDict`.
+>
+> <pre class="language-python"><code class="lang-python"><strong>from collections import OrderedDict
+> </strong></code></pre>
+>
+> [Though `OrderedDict` has a method `move_to_end`](https://stackoverflow.com/questions/39980323/are-dictionaries-ordered-in-python-3-6/47837132#47837132)``
+
 ## Operators
 
 | Operator | Use              | Explanation                                                                                  |
